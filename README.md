@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨Be kind</p>
+<p align="left">✨ Be kind/p>
 
 ###
 
@@ -24,11 +24,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning <strong>English</strong>, <strong>Robotics</strong> and <strong>UI/UX</strong> design with <strong>Figma</strong></p>
+<p align="left">📚 I'm currently learning <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong> and <strong>Robotics</strong> </p>
 
 ###
 
-<p align="left">💬 Ask me about <strong>UI/UX design</strong> and <strong>Front-end development</strong></p>
+<p align="left">💬 Ask me about <strong>Python</strong> and <strong> AI </strong></p>
 
 ###
 
