@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Be kind/p>
+<p align="left">✨ Be kind </p>
 
 ###
 
