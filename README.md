@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Samin</strong> and I'm a <strong>Front-End developer and UI/UX designer</strong>, from Parand, Iran.</p>
+<p align="left">My name is <strong>Samin</strong> and I'm <strong> working in Artificial intelligence and machine learning </strong>,Iran.</p>
 
 ###
 
