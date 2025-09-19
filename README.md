@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🎯 Goals: Live in <strong>The City That Never Sleeps</strong> 🗽 and speak <strong>English</strong> fluently 🚀</p>
+<p align="left">🎯 Goals: Live in <strong>The City That Never Sleeps</strong> 🗽 intelligent systems and innovate in </strong> AI 🚀 </p>
 
 ###
 
